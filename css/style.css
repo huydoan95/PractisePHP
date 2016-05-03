@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 3, 2016, 12:52:33 PM
+    Author     : Huy Doan
+*/
+
+/* Body */
+
+.fullscreenDiv {
+    background-color: #e8e8e8;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
+.center {
+    position: absolute;
+    /*border: 1px solid blue;*/
+    width: 100%;
+    height: auto;
+    top: 45%;
+    left: 35%;
+    margin-top: -25px;
+    margin-left: -50px;
+}
